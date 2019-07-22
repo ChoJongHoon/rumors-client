@@ -1,0 +1,12 @@
+import "./index.css";
+export { default as Subtitle } from "./Subtitle";
+export { default as PostWrapper } from "./PostWrapper";
+export { default as PostHeader } from "./PostHeader";
+export { default as PostProfile } from "./PostProfile";
+export { default as PostNameDate } from "./PostNameDate";
+export { default as PostText } from "./PostText";
+export { default as PostImageWrapper } from "./PostImageWrapper";
+export { default as PostImage } from "./PostImage";
+export { default as PostCounter } from "./PostCounter";
+export { default as PostFooter } from "./PostFooter";
+export { default as PostTab } from "./PostTab";
